@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	C1_1	/cluster/majf_lab/mtinti/Calvin/RBP5/C1/res/C1/fastqc/C1_1_fastqc.zip
+FastQC	all_sections	C1_2	/cluster/majf_lab/mtinti/Calvin/RBP5/C1/res/C1/fastqc/C1_2_fastqc.zip
+FastQC	all_sections	C2_2	/cluster/majf_lab/mtinti/Calvin/RBP5/C2/res/C2/fastqc/C2_2_fastqc.zip
+FastQC	all_sections	C2_1	/cluster/majf_lab/mtinti/Calvin/RBP5/C2/res/C2/fastqc/C2_1_fastqc.zip
+FastQC	all_sections	C3_2	/cluster/majf_lab/mtinti/Calvin/RBP5/C3/res/C3/fastqc/C3_2_fastqc.zip
+FastQC	all_sections	C3_1	/cluster/majf_lab/mtinti/Calvin/RBP5/C3/res/C3/fastqc/C3_1_fastqc.zip
+FastQC	all_sections	R1_2	/cluster/majf_lab/mtinti/Calvin/RBP5/R1/res/R1/fastqc/R1_2_fastqc.zip
+FastQC	all_sections	R1_1	/cluster/majf_lab/mtinti/Calvin/RBP5/R1/res/R1/fastqc/R1_1_fastqc.zip
+FastQC	all_sections	R2_1	/cluster/majf_lab/mtinti/Calvin/RBP5/R2/res/R2/fastqc/R2_1_fastqc.zip
+FastQC	all_sections	R2_2	/cluster/majf_lab/mtinti/Calvin/RBP5/R2/res/R2/fastqc/R2_2_fastqc.zip
+FastQC	all_sections	R3_1	/cluster/majf_lab/mtinti/Calvin/RBP5/R3/res/R3/fastqc/R3_1_fastqc.zip
+FastQC	all_sections	R3_2	/cluster/majf_lab/mtinti/Calvin/RBP5/R3/res/R3/fastqc/R3_2_fastqc.zip
